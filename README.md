@@ -23,6 +23,17 @@
 ### ✍️ MOTIVATION
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
+<details>
+<summary>🛠️ My Coding Journey</summary>
+
+&nbsp;
+👶 **Started** with HTML, CSS, and JavaScript while earning my A.S. in Full Stack Web Development  
+📚 **Built** weekly projects and full-stack capstones during my time at BU  
+👩‍💻 **Transitioned** into a B.S. in Software Engineering to deepen my dev and system design skills  
+🔐 **Exploring** cybersecurity with OWASP, GitOps, and secure coding practices  
+🤖 **Currently Learning** AI/ML, cloud fundamentals, and prepping for open source collaboration in 2025
+</details>
+
 ---
 [![](https://visitcount.itsvg.in/api?id=stackmindlab&icon=0&color=0)](https://visitcount.itsvg.in)
 
