@@ -10,7 +10,7 @@
 
 ---
 
-### 📊 Stackmindlab's GitHub Stats
+### 📊
 [![Stackmindlab's GitHub stats](https://github-readme-stats.vercel.app/api?username=stackmindlab&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
