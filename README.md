@@ -1,5 +1,5 @@
 <!-- Level 1: Simple bio and stats -->
-### Hi, I'm Irma!
+### Hi, I'm Yesi!
 
 <!-- 👩‍💻 About Me Section -->
 👩‍💻 Full stack dev & software engineer in training with a passion for clean code  
