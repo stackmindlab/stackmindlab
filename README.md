@@ -2,10 +2,10 @@
 ### Hi, I'm Yesi!
 
 <!-- 👩‍💻 About Me Section -->
-👩‍💻 Full stack dev & software engineer in training with a passion for clean code  
+👩‍💻 IT professional transitioning into QA and software development with a strong focus on debugging, testing, and problem-solving.  
 🧠 Always learning & diving into AI, ethical hacking, and cloud tech  
 🎨 I love building secure, creative user interfaces and web apps  
-🔐 Cybersecurity explorer focused on OWASP, GitOps & DevSecOps  
+🔐 Cybersecurity learner focused on OWASP basics and secure coding practices  
 💬 Here to build, share, and grow in public one project at a time  
 
 ---
