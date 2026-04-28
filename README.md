@@ -64,11 +64,11 @@
 
 &nbsp;
 
-👶 **Started** with HTML, CSS, and JavaScript while earning my A.S. in Full Stack Web Development  
-📚 **Built** weekly projects and full-stack capstones during my time at BU  
-👩‍💻 **Transitioned** into a B.S. in Software Engineering to deepen my dev and system design skills  
-🔐 **Exploring** cybersecurity with OWASP, GitOps, and secure coding practices  
-🤖 **Currently Learning** AI/ML, cloud fundamentals, and prepping for open source collaboration in 2025
+👶 Started with HTML, CSS, and JavaScript while earning my A.S. in Full Stack Web Development  
+📚 Built weekly projects and full-stack capstones during my time at Bryan University  
+👩‍💻 Now pursuing a B.S. in Software Engineering to deepen my development and system design skills  
+🔐 Exploring cybersecurity with a focus on OWASP fundamentals and secure coding practices  
+🤖 Currently learning AI/ML, cloud fundamentals, and preparing for open-source collaboration  
 
 </details>
 
