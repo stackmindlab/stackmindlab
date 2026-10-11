@@ -112,20 +112,19 @@ I use AI tools to turn ideas into working solutions, explore application design,
 </div>
 
 
+
 ---
 
 ### ✍️ Daily Developer Motivation
 
 <div align="center">
 
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
+![Daily Programming Quote](https://readme-daily-quotes.vercel.app/api?category=programming&bg_color=171323&quote_color=E9D5FF&author_color=C4B5FD&accent_color=A855F7&border_color=8B5CF6&border_width=1&border_radius=12)
 
 </div>
 
-
 ---
+
 
 <details>
 <summary><strong>🛠️ My Coding Journey</strong></summary>
@@ -158,7 +157,7 @@ I use AI tools to turn ideas into working solutions, explore application design,
 
 *Curiosity drives the code.*
 
-[![Profile Views](https://komarev.com/ghpvc/?username=stackmindlab&color=8B5CF6&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/stackmindlab)
+![Profile Views](https://komarev.com/ghpvc/?username=stackmindlab&color=blueviolet&style=flat-square&label=PROFILE+VIEWS)
 
 </div>
 
