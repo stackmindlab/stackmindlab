@@ -111,15 +111,17 @@ I use AI tools to turn ideas into working solutions, explore application design,
 
 </div>
 
+
 ---
 
-### ✍️ Motivation
+### ✍️ Daily Developer Motivation
 
 <div align="center">
 
-![Developer Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+![Random Developer Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 </div>
+
 
 ---
 
