@@ -118,7 +118,9 @@ I use AI tools to turn ideas into working solutions, explore application design,
 
 <div align="center">
 
-![Random Developer Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
 
 </div>
 
