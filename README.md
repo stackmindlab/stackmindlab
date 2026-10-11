@@ -119,7 +119,7 @@ I use AI tools to turn ideas into working solutions, explore application design,
 
 <div align="center">
 
-![Random Developer Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+![Developer Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 </div>
 
@@ -157,7 +157,9 @@ I use AI tools to turn ideas into working solutions, explore application design,
 
 *Curiosity drives the code.*
 
-![Profile Views](https://komarev.com/ghpvc/?username=stackmindlab&color=blueviolet&style=flat-square&label=PROFILE+VIEWS)
+
+![Profile Views](https://komarev.com/ghpvc/?username=stackmindlab&color=blueviolet)
+
 
 </div>
 
