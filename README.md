@@ -5,6 +5,8 @@
 
 ### 👋 Hi, I'm Yesi!
 
+
+
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=B794F4&center=true&vCenter=true&width=550&lines=Software+Engineering%2C+AI+Engineering%2C;AI+Agents%2C+Cybersecurity)
 
 *Building, Learning, Experimenting, and Evolving.*
@@ -23,6 +25,16 @@
 🎨 Enjoy building responsive interfaces and practical applications  
 🔐 Interested in cybersecurity, secure coding, and cloud technologies  
 🚀 Learning through hands-on projects, experimentation, and problem-solving  
+
+---
+
+### 💜 Let's Connect & Grow!
+
+⭐ Enjoy my projects? Give your favorites a star!  
+👥 Follow me to see what I'm building next!  
+🚀 Let's learn, build, and grow together!
+
+[![Follow on GitHub](https://img.shields.io/github/followers/stackmindlab?label=Follow%20Me&style=for-the-badge&logo=github&color=B794F4)](https://github.com/stackmindlab?tab=followers)
 
 ---
 
